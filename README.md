@@ -15,7 +15,7 @@
 I MAKE GAMES
 </p>
 
-- 👋 Hi, I’m @JDChristoaka Christian Jerrin Thomas
+- 👋 Hi, I’m JDChristo
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Everything - "Purpose of life"
 - 📫 My Portfolio : [Jdchristo](https://jdchristo.github.io/portfolio/work.html)
