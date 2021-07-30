@@ -9,7 +9,7 @@
 <a href = "https://twitter.com/jd1678">
 <img width="50" height="50" src="https://github.com/JDChristo/JDChristo/blob/main/img/twitter.png"></a>&nbsp;&nbsp;
 </p>
-<p align="centre">
+<p align="center">
 I MAKE GAMES
 </p>
 
