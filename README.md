@@ -9,6 +9,9 @@
 <a href = "https://twitter.com/jd1678">
 <img width="50" height="50" src="https://github.com/JDChristo/JDChristo/blob/main/img/twitter.png"></a>&nbsp;&nbsp;
 </p>
+<p align="centre">
+I MAKE GAMES
+</p>
 
 - 👋 Hi, I’m [@JDChristo](https://jdchristo.github.io/portfolio/) aka Christian Jerrin Thomas
 - 👀 I’m interested in Game Development
