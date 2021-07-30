@@ -1,6 +1,7 @@
 <a href="https://jdchristo.github.io/portfolio/">
 <img align="centre" src="https://github.com/JDChristo/JDChristo/blob/main/img/2.jpg?raw=tru">
 </a>
+<br><br>
 <p align="center">
 <a href = "https://www.linkedin.com/in/jerrin-thomas-7b1b80152/">
 <img width="32" height="32" src="https://github.com/JDChristo/JDChristo/blob/main/img/linkedin.png"></a>&nbsp;&nbsp;
