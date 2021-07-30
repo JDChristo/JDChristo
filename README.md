@@ -18,5 +18,5 @@ I MAKE GAMES
 <p align="center">
   👋 Hi, I’m <a href="https://jdchristo.github.io/portfolio/">JDChristo</a> <br>
 I work as game programmer. I also love doing art, game design, UX, and 3d modeling.
-In my free time I create <a href="https://jdchristo.github.io/portfolio/work.html">games</a> and do a lot of Research and Developement. I am currently working on my two personal games - "My Last Days for you" and "No Ghost"; Also working on few games with friends.
+In my free time I create <a href="https://jdchristo.github.io/portfolio/work.html">games</a> and do a lot of Research and Developement. I am currently working on my two personal games - <b>"My Last Days for you"</b> and <b>"No Ghosts"</b>; Also working on few games with friends.
 </p>
