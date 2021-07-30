@@ -17,6 +17,6 @@ I MAKE GAMES
 </p>
 <p align="center">
   👋 Hi, I’m <a href="https://jdchristo.github.io/portfolio/">JDChristo</a> <br>
- I'm a Game Programmer and Designer. I work as game programmer. I also love doing art, game design, UX, and 3d modeling.
+I work as game programmer. I also love doing art, game design, UX, and 3d modeling.
 In my free time I create <a href="https://jdchristo.github.io/portfolio/work.html">games</a> and do a lot of Research and Developement.
 </p>
