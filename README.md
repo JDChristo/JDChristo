@@ -1,5 +1,6 @@
 <a href="https://jdchristo.github.io/portfolio/">
 <img align="centre" src="https://github.com/JDChristo/JDChristo/blob/main/img/2.jpg?raw=tru">
+  ![](https://visitor-badge.laobi.icu/badge?page_id=JDChristo.JDChristo)
 </a>
 <br><br>
 <p align="center">
