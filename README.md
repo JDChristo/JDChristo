@@ -18,8 +18,8 @@ I MAKE GAMES
 </p>
 <p align="center">
   👋 Hi, I’m <a href="https://jdchristo.github.io/portfolio/">JDChristo</a> <br>
-I work as game programmer. I also love doing art, game design, UX, and 3d modeling.
-In my free time I create <a href="https://jdchristo.github.io/portfolio/work.html">games</a> and do a lot of Research and Developement. I am currently working on my two personal games - <b> <s>"My Last Days for you"</b> and <b>"Joourney to You"</b>; Also</s> working on few games with friends.
+I am a game programmer. I also love doing some art and design stuff.
+In my free time, I create <a href="https://jdchristo.github.io/portfolio/work.html">games</a> and do a lot of research and development.
 </p>
 
 <p><a href="https://github.com/JDChristo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDChristo&amp;hide_progress=true&amp;theme=buefy" alt="Top Langs"></a></p>
