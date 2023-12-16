@@ -8,8 +8,6 @@
 <img width="32" height="32" src="https://github.com/JDChristo/JDChristo/blob/main/img/linkedin.png"></a>&nbsp;&nbsp;
 <a href = "https://jd-christo.itch.io/">
 <img width="32" height="32" src="https://github.com/JDChristo/JDChristo/blob/main/img/itch.png"></a>&nbsp;&nbsp;
-<a href = "https://www.instagram.com/jd_christo/">
-<img width="32" height="32" src="https://github.com/JDChristo/JDChristo/blob/main/img/instagram.png"></a>&nbsp;&nbsp;
 </p>
 <p align="center">
 I MAKE GAMES
