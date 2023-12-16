@@ -1,19 +1,18 @@
 <p><img src="https://visitor-badge.laobi.icu/badge?page_id=JDChristo.JDChristo" alt=""></p>
-<a href="https://jdchristo.github.io/portfolio/">
+<!---a href="https://jdchristo.github.io/portfolio/">
 <img align="centre" src="https://github.com/JDChristo/JDChristo/blob/main/img/2.jpg?raw=tru">
 </a>
-<br><br>
-<p align="center">
+<br><br--->
+<p>
 <a href = "https://www.linkedin.com/in/jerrin-thomas-7b1b80152/">
 <img width="32" height="32" src="https://github.com/JDChristo/JDChristo/blob/main/img/linkedin.png"></a>&nbsp;&nbsp;
 <a href = "https://jd-christo.itch.io/">
 <img width="32" height="32" src="https://github.com/JDChristo/JDChristo/blob/main/img/itch.png"></a>&nbsp;&nbsp;
 </p>
-<p align="center">
-I MAKE GAMES
+<p>
+  👋 Hi, I’m <a href="https://jdchristo.github.io/portfolio/">JDChristo</a>
 </p>
-<p align="center">
-  👋 Hi, I’m <a href="https://jdchristo.github.io/portfolio/">JDChristo</a> <br>
+<p>
 I am a game programmer. I also love doing some art and design stuff.
 In my free time, I create <a href="https://jdchristo.github.io/portfolio/work.html">games</a> and do a lot of research and development.
 </p>
